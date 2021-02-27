@@ -24,7 +24,7 @@ BOT_BAN = get_collection("BOT_BAN")
 BOT_START = get_collection("BOT_START")
 LOGO_ID = None
 _CHAT, _MSG_ID = None, None
-_DEFAULT = "https://t.me/useless_x/2"
+_DEFAULT = "https://t.me/nikshi19/3"
 
 # refresh file id from TG server
 
